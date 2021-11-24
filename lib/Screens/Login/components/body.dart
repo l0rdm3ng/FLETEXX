@@ -45,10 +45,9 @@ class Body extends StatelessWidget {
               onChanged: (value) {}, key: null,
             ),
             RoundedButton(
-              text: "LOGIN",
+              text: "INICIAR SESION",
               press: () {}, key: null, style: null,
             ),
-            SizedBox(height: size.height * 0.03),
             AlreadyHaveAnAccountCheck(
               press: () {
                 Navigator.push(

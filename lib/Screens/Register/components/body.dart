@@ -26,6 +26,16 @@ class Body extends StatelessWidget {
               "assets/images/icon.png",
               height: size.height * 0.35,
             ),
+            const Text(
+                "FLETEXX",
+                style: TextStyle(
+                    fontFamily: "Mohave",
+                    fontSize: 70,
+                    letterSpacing: 3,
+                    fontWeight: FontWeight.bold,
+                    fontStyle: FontStyle.italic,
+                    color: Colors.white),
+              ),
             RoundedInputField(
               hintText: "Email",
               onChanged: (value) {},
