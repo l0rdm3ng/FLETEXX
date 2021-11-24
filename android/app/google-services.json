@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "686026346001",
+    "project_id": "fletexx-9ccbd",
+    "storage_bucket": "fletexx-9ccbd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:686026346001:android:784eda5777caf72d4dabb0",
+        "android_client_info": {
+          "package_name": "com.example.fletexx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "686026346001-87au6hf22dm2vab77llj69ehubv0flfc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDak40aJYLM7Fz18_feigG3Dxc1QlxCI9M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "686026346001-87au6hf22dm2vab77llj69ehubv0flfc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
